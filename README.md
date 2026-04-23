@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;AutoCAD+Automation+Engineer;Building+Real+World+Systems;Always+Learning+%26+Improving" />
   </a>
 </p>
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="260" src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5]
 
 ## 🧠 About Me
 
