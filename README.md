@@ -37,9 +37,6 @@ Mindset: Build → Break → Fix → Optimize
 
 ---
 
-## ⚡ 3. TECH STACK
-
-```md
 ## ⚡ Tech Stack
 
 ### 🧩 Backend
