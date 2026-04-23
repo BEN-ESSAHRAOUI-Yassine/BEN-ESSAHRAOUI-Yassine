@@ -18,7 +18,7 @@ Stack: PHP / Laravel / JavaScript / MySQL
 Specialty: CAD Automation + Data-driven systems
 Focus: Backend architecture & workflow automation
 Mindset: Build → Break → Fix → Optimize
-
+```
 
 ---
 
