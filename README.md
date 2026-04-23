@@ -125,7 +125,7 @@ Projects > tutorials
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
   </a>
-  <a href="#">
+  <a href="mailto:ybenessahraoui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
 </p>
