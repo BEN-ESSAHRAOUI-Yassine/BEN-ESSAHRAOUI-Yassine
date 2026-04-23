@@ -95,7 +95,7 @@ Mindset: Build → Break → Fix → Optimize
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=BEN-ESSAHRAOUI-Yassine&theme=react-dark&hide_border=true&area=true&color=00FF00"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEN-ESSAHRAOUI-Yassine&theme=react-dark&hide_border=true&area=true&color=00FF00"/>
 </p>
 
 ## 🎯 Current Focus
