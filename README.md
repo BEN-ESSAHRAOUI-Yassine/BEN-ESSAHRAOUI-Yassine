@@ -51,6 +51,7 @@ Mindset: Build → Break → Fix → Optimize
 
 ### 🟢 AutoCAD / AutoLISP Developer
 
+- Developed and delivered CAD/GIS automation solutions using AutoLISP, Excel VBA, and QGIS, including an AutoCAD-integrated application with custom toolbar, DXF generation tools from structured Excel data, and a QGIS extension for SHP creation and optical network processing; automated drawing workflows, batch processing, data structuring, and validation to improve efficiency, standardization, and reduce manual errors in FTTH design projects.
 - Developed and maintained AutoLISP scripts to automate AutoCAD workflows  
 - Built custom tools for drawing automation, layer management, and block handling  
 - Implemented scripts for geometry calculations and data extraction  
