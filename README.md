@@ -71,13 +71,10 @@ Mindset: Build → Break → Fix → Optimize
 ✔ Database Design & Relationships
 ✔ Modular Code Structure
 ✔ Automation Pipelines (CAD + Data)
-
+```
 
 ---
 
-## 🚀 6. PROJECTS
-
-```md
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -115,14 +112,13 @@ Clean code > clever code
 Automation > repetition
 Systems > scripts
 Projects > tutorials
-
+```
 
 ---
 
-## 🌐 11. CONTACT
+## 🌐 CONTACT
 
-```md
-## 🌐 Connect
+
 
 <p align="center">
   <a href="#">
