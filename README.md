@@ -94,7 +94,9 @@ Mindset: Build → Break → Fix → Optimize
 
 ## 📈 Activity Graph
 
-![heatmap](https://github-contribution-grid-snake.vercel.app/?username=BEN-ESSAHRAOUI-Yassine&theme=dark)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF00/BEN-ESSAHRAOUI-Yassine" alt="GitHub Contributions Chart"/>
+</p>
 
 ## 🎯 Current Focus
 
