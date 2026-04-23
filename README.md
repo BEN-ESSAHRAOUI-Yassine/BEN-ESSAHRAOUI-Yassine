@@ -26,18 +26,7 @@ Mindset: Build → Break → Fix → Optimize
 
 ## 🧠 About Me
 
-<div style="background-color:#2d0a3a; padding:15px; border-radius:10px; color:#ffffff; font-family:monospace;">
-
-<b>> whoami</b><br><br>
-
-Name: Yassine Ben Essahraoui<br>
-Role: Full Stack Developer / Automation Engineer<br>
-Stack: PHP / Laravel / JavaScript / MySQL<br>
-Specialty: CAD Automation + Data-driven systems<br>
-Focus: Backend architecture & workflow automation<br>
-Mindset: Build → Break → Fix → Optimize
-
-</div>
+![terminal](https://img.shields.io/badge/%3E_whoami-Name%3A_Yassine_Ben_Essahraoui%0ARole%3A_Full_Stack_Developer_%2F_Automation_Engineer%0AStack%3A_PHP_%2F_Laravel_%2F_JS_%2F_MySQL%0ASpecialty%3A_CAD_Automation%0AFocus%3A_Backend_%26_Workflows%0AMindset%3A_Build_%E2%86%92_Break_%E2%86%92_Fix_%E2%86%92_Optimize-800080?style=for-the-badge)
 
 </td>
 
