@@ -6,9 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;AutoCAD+Automation+Engineer;Building+Real+World+Systems;Always+Learning+%26+Improving" />
   </a>
 </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-![terminal](https://img.shields.io/badge/%3E_whoami-Name%3A_Yassine_Ben_Essahraoui%0ARole%3A_Full_Stack_Developer_%2F_Automation_Engineer%0AStack%3A_PHP_%2F_Laravel_%2F_JS_%2F_MySQL%0ASpecialty%3A_CAD_Automation%0AFocus%3A_Backend_%26_Workflows%0AMindset%3A_Build_%E2%86%92_Break_%E2%86%92_Fix_%E2%86%92_Optimize-800080?style=for-the-badge)
-<br><br>
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
 ## 🧠 About Me
 
@@ -21,21 +19,6 @@ Specialty: CAD Automation + Data-driven systems
 Focus: Backend architecture & workflow automation
 Mindset: Build → Break → Fix → Optimize
 ```
-<table>
-<tr>
-<td width="50%">
-
-## 🧠 About Me
-
-![terminal](https://img.shields.io/badge/%3E_whoami-Name%3A_Yassine_Ben_Essahraoui%0ARole%3A_Full_Stack_Developer_%2F_Automation_Engineer%0AStack%3A_PHP_%2F_Laravel_%2F_JS_%2F_MySQL%0ASpecialty%3A_CAD_Automation%0AFocus%3A_Backend_%26_Workflows%0AMindset%3A_Build_%E2%86%92_Break_%E2%86%92_Fix_%E2%86%92_Optimize-800080?style=for-the-badge)
-
-</td>
-
-<td width="50%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
-</td>
-</tr>
-</table>
 ---
 
 ## ⚡ Tech Stack
