@@ -87,16 +87,14 @@ Mindset: Build → Break → Fix → Optimize
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEN-ESSAHRAOUI-Yassine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BEN-ESSAHRAOUI-Yassine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&cache_seconds=86400"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BEN-ESSAHRAOUI-Yassine&theme=chartreuse-dark&hide_border=true&background=00000000"/>
+  <img src="https://streak-stats.demolab.com?user=BEN-ESSAHRAOUI-Yassine&theme=chartreuse-dark&hide_border=true&background=00000000"/>
 </p>
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEN-ESSAHRAOUI-Yassine&theme=react-dark&hide_border=true&area=true&color=00FF00"/>
-</p>
+![heatmap](https://github-contribution-grid-snake.vercel.app/?username=BEN-ESSAHRAOUI-Yassine&theme=dark)
 
 ## 🎯 Current Focus
 
