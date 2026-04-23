@@ -20,7 +20,32 @@ Specialty: CAD Automation + Data-driven systems
 Focus: Backend architecture & workflow automation
 Mindset: Build → Break → Fix → Optimize
 ```
+<table>
+<tr>
+<td width="50%">
 
+## 🧠 About Me
+
+<div style="background-color:#2d0a3a; padding:15px; border-radius:10px; color:#ffffff; font-family:monospace;">
+
+<b>> whoami</b><br><br>
+
+Name: Yassine Ben Essahraoui<br>
+Role: Full Stack Developer / Automation Engineer<br>
+Stack: PHP / Laravel / JavaScript / MySQL<br>
+Specialty: CAD Automation + Data-driven systems<br>
+Focus: Backend architecture & workflow automation<br>
+Mindset: Build → Break → Fix → Optimize
+
+</div>
+
+</td>
+
+<td width="50%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Stack
